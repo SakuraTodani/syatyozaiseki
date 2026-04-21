@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/todani.pretty/Library.pretty") (options "") (descr ""))
+	(lib (name "FPtodani") (type "KiCad") (uri "${KIPRJMOD}/todani.pretty/Library.pretty/FPtodani.pretty") (options "") (descr ""))
+)
